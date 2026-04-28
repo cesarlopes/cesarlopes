@@ -1,34 +1,61 @@
-# Olá, eu sou César Lopes! 👋
+# 👋 Olá, eu sou César Lopes  
 
+💻 **Desenvolvedor PHP Fullstack** focado em criar aplicações web robustas, escaláveis e bem estruturadas.  
 
-## Sobre Mim
+🚀 Trabalho principalmente com **Laravel**, integrações com APIs (pagamentos, gateways, etc.) e soluções voltadas para automação e sistemas web.
 
-Sou um **Programador PHP Fullstack** com paixão por criar aplicações web. Tenho experiência com desenvolvimento back-end em PHP, frameworks como Laravel, e também desenvolvimento front-end com HTML, CSS, JavaScript e frameworks modernos. 
+---
 
-## Skills e Tecnologias
+## 🚀 Sobre mim  
 
-### Linguagens
-- PHP
-- JavaScript
-- HTML5 & CSS3 
-- SQL
+- 🔧 Desenvolvedor com foco em **back-end PHP (Laravel)**  
+- 🌐 Experiência com **front-end moderno (HTML, CSS, JavaScript)**  
+- 💳 Atuação em **integrações com gateways de pagamento e APIs**  
+- ⚡ Sempre buscando performance, organização e boas práticas  
+- 📚 Aprendizado contínuo e interesse por novas tecnologias  
 
-### Frameworks
-- Laravel
+---
 
-## Estatísticas do GitHub
+## 🛠️ Tecnologias & Skills  
 
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cesarlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlopes&layout=compact&langs_count=7&theme=tokyonight"/>
+### 👨‍💻 Back-end  
+- PHP (Laravel)  
+- APIs REST  
+- Integrações (Pagamentos, Webhooks, etc.)  
+
+### 🎨 Front-end  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 🗄️ Banco de Dados  
+- MySQL
+- PostgreSQL
+- SQL em geral  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cesarlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
 
-## Contato
+## 🌐 Onde me encontrar  
 
-- 🌐 Website/Blog: [cesarlopes.com](https://cesarlopes.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cesarlopes-web/)
+- 🌍 **Blog / Portfólio:** https://cesarlopes.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/cesarlopes-web/  
 
-<!-- Optionally add more badges or links to social profiles -->
+---
 
+## 💡 Extras (opcional)
 
+- 📌 Adicionar projetos em destaque  
+- 🧠 O que você está estudando atualmente  
+- 🛠️ Stack mais avançada (Docker, Redis, etc.)  
+- ✍️ Últimos posts do blog  
+
+---
