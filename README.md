@@ -50,12 +50,3 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/cesarlopes-web/  
 
 ---
-
-## 💡 Extras (opcional)
-
-- 📌 Adicionar projetos em destaque  
-- 🧠 O que você está estudando atualmente  
-- 🛠️ Stack mais avançada (Docker, Redis, etc.)  
-- ✍️ Últimos posts do blog  
-
----
